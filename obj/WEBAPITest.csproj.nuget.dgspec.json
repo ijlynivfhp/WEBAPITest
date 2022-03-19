@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\WEBAPITest\\WEBAPITest.csproj": {}
+    "E:\\Project\\NET\\WEBAPITest\\WEBAPITest.csproj": {}
   },
   "projects": {
-    "E:\\Project\\WEBAPITest\\WEBAPITest.csproj": {
+    "E:\\Project\\NET\\WEBAPITest\\WEBAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\WEBAPITest\\WEBAPITest.csproj",
+        "projectUniqueName": "E:\\Project\\NET\\WEBAPITest\\WEBAPITest.csproj",
         "projectName": "WEBAPITest",
-        "projectPath": "E:\\Project\\WEBAPITest\\WEBAPITest.csproj",
+        "projectPath": "E:\\Project\\NET\\WEBAPITest\\WEBAPITest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\WEBAPITest\\obj\\",
+        "outputPath": "E:\\Project\\NET\\WEBAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
