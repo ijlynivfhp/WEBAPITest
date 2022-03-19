@@ -52,3 +52,6 @@ E:\Project\NET\WEBAPITest\obj\Debug\net6.0\refint\WEBAPITest.dll
 E:\Project\NET\WEBAPITest\obj\Debug\net6.0\WEBAPITest.pdb
 E:\Project\NET\WEBAPITest\obj\Debug\net6.0\WEBAPITest.genruntimeconfig.cache
 E:\Project\NET\WEBAPITest\obj\Debug\net6.0\ref\WEBAPITest.dll
+E:\Project\NET\WEBAPITest\bin\Debug\net6.0\AutoFilterer.dll
+E:\Project\NET\WEBAPITest\bin\Debug\net6.0\AutoFilterer.Generators.dll
+E:\Project\NET\WEBAPITest\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
